@@ -1,0 +1,32 @@
+_repo: -ber-allgemeine-Landesbewaffnung-insbesondere-in-Beziehung-auf-W-rttemberg_31337
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prittwitz, M. von (Moritz)
+    aliases:
+    - Prittwitz, Moritz von
+    - Prittwitz, Moriz von
+    - Von Prittwitz, M. (Moritz)
+    - Gaffron, Moritz Karl Ernst von Prittwitz und
+    birthdate: 1795
+    deathdate: 1885
+    gutenberg_agent_id: '35162'
+    url: http://www.gutenberg.org/2009/agents/35162
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31337'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- History, Military -- 19th century -- Sources'
+- !lcc 'DD'
+title: Über allgemeine Landesbewaffnung, insbesondere in Beziehung auf Württemberg
+url: http://www.gutenberg.org/ebooks/31337
