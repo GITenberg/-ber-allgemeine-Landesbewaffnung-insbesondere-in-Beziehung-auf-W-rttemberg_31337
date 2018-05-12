@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '35162'
     url: http://www.gutenberg.org/2009/agents/35162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31337#-ber-allgemeine-Landesbewaffnung-insbesondere-in-Beziehung-auf-W-rttemberg
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-02-21'
 gutenberg_type: Text
